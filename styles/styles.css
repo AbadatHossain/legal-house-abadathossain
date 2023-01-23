@@ -26,10 +26,3 @@
     background: #B68C5A;
     color: white;
 }
-.carousel-info{
-    display: flex;
-    justify-content: center;
-    align-items:center;
-    text-align: center;
-    background-position: center;
-}
