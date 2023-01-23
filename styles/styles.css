@@ -24,3 +24,10 @@
     background: #B68C5A;
     color: white;
 }
+.border-style{
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
