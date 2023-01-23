@@ -6,22 +6,20 @@
     height: 100vh;
     background-image: url("../images/banner.png");
     background-repeat: no-repeat;
-    /* background-blend-mode: overlay; */
     background-position: center;
     display: flex;
     justify-content: center;
     align-items:center;
     text-align: center;
-    /* background-color: brown; */
     margin: 0 auto;
-
-
 }
+
 .banner-info{
     text-align: center;
     align-items: center;
     color: white;
 }
+
 .btn{
     background: #B68C5A;
     color: white;
